@@ -1,0 +1,18 @@
+{
+    "redis": {
+	"hostname": "redis",
+	"port": 6379,
+	"password": null
+    },
+    "http": {
+	"port": 1337,
+	"basic": {
+	    "username": "autocompletion",
+	    "password": "autocompletion"
+	}
+    },
+    "index": {
+		"minSizeToken": 2,
+		"prefix": "users"
+    }
+}
