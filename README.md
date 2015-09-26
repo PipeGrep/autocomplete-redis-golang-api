@@ -1,4 +1,4 @@
-Search as you Type API with Golang and Redis
+Search as you Type API (Golang + Redis)
 ============================================
 
 # Features
